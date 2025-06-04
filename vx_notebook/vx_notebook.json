@@ -1,0 +1,15 @@
+{
+    "attachment_folder": "vx_attachments",
+    "config_mgr": "vx.vnotex",
+    "created_time": "2025-05-29T13:32:23Z",
+    "description": "学习shell命令，也学win的bat批处理",
+    "extra_configs": {
+    },
+    "history": [
+    ],
+    "image_folder": "vx_images",
+    "name": "shell-H",
+    "tag_graph": "",
+    "version": 3,
+    "version_controller": "dummy.vnotex"
+}
